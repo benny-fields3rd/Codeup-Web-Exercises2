@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="256ed741-2c7e-420c-8215-74c8e876b895" name="Default Changelist" comment="Initial Commit">
+    <list default="true" id="256ed741-2c7e-420c-8215-74c8e876b895" name="Default Changelist" comment="">
       <changelist_data name="benny" email="" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,7 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="benny" />
+        <option value="benny-fields3rd" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,5 +49,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
